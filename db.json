@@ -1,11 +1,22 @@
-{"room01":{},
- "room02":{},
- "room03":{},
- "room04":{},
- "room05":{},
- "room06":{},
- "room07":{},
- "room08":{},
- "room09":{},
- "room10":{}
+{
+  "room01": {},
+  "room02": {},
+  "room03": {},
+  "room04": {},
+  "room05": {},
+  "room06": {
+    "20230925": [
+      "other@ymail.ca",
+      4
+    ]
+  },
+  "room07": {},
+  "room08": {},
+  "room09": {},
+  "room10": {
+    "20230404": [
+      "example@hotmail.com",
+      7
+    ]
+  }
 }
